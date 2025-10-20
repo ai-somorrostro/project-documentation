@@ -1,0 +1,17 @@
+site_name: Documentacion
+site_author: Grupo 1
+site_url: https://haimar.alvarez.github.io
+
+theme:
+  name: null
+  custom_dir: .venv/lib/python3.12/site-packages/mkdocs_bootstrap386
+
+
+nav:
+  - MIA: modelos-inteligencia-artificial.md
+  - BDA: big-data-aplicado.md
+  - PIA: programas-inteligencia-artificial.md
+  - SAA: sistemas-aprendizaje-automatico.md
+  - SBD: sistemas-big-data.md
+
+repo_url: https://github.com/haimar.alvarez/haimar.alvarez.github.io
