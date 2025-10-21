@@ -12,6 +12,11 @@ git clone git@github.com:ai-somorrostro/project-documentation.git
 cd project-documentation/
 ```
 
+# Instalar dependencias
+```
+pip install -r requirements.txt --break-system-packages
+```
+
 # Ejecutar
 Si se llega a hacer alguna modificacion a la pagina y se quiere ver si funciona bien se debe ejecutar el comando
 ```
